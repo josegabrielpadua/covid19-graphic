@@ -8,7 +8,6 @@
 - É feito inúmeros gráficos para demonstração, sempre incluindo a data. Algumas funções também foram feitas.
 - Gráficos feitos: Gráfico de Novos Casos, Gráfico de Casos Confimados,  Gráfico de Mortes, Gráfico de Taxa de Crescimento de Casos confirmados, Gráfico de Previsão de Novos Casos aos Próximos 15 Dias.
 - Funções feitas: Função de Taxa de Crescimento, Função de Taxa de Crescimento Diária.
-- 
 
 ## Bibliotecas utilizadas:
 
@@ -21,5 +20,7 @@
 - Arima
 - Numpy
 - Statsmodels
+
+
 
 ### Autor: José Gabriel dos Santos Pádua
